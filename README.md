@@ -1,11 +1,7 @@
 # EMIXIO
 repositorio emixio
 
-
-![Computer Science Freshman](https://github.com/SayantaniDeb/SayantaniDeb/blob/main/Computer%20Science%20Student.png)
 # Hi there 👋, 
-### My name is Sayantani Deb
-#### Computer Science Sophomore
 
 
 I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!
