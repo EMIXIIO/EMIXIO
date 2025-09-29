@@ -10,7 +10,7 @@ Prueba de repositorio
 
 Skills: HTML / CSS / C++ /
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMIXIIO)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Programming Languages  :rocket:
