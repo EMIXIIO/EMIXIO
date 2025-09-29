@@ -12,7 +12,7 @@ I love learning new languages and implementing them in various projects. Current
 
 Skills: HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayantaniDeb)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMIXIIO)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
