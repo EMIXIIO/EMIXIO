@@ -1,10 +1,12 @@
 # EMIXIO
 repositorio emixio
 
-# Hi there 👋, 
+ 👋, 
 
 
-I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!
+Prueba de repositorio 
+
+
 
 Skills: HTML / CSS / C++ /
 
