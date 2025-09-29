@@ -13,15 +13,19 @@ Skills: HTML / CSS / C++ /
 
 
 
-### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
-|:---:|:---:|:---:|
-
-
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EMIXIIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIXIIO&layout=compact&langs_count=7&theme=dark"/>
+
+
+
+
+
+
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|:---:|:---:|:---:|
 
 
 
