@@ -21,6 +21,39 @@ Skills: HTML / CSS / C++ /
 
 
 
+ <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:wrap;">
+    <!-- C++ -->
+    <a href="https://isocpp.org/" target="_blank" rel="noopener">
+      <img
+        alt="C++"
+        src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"
+        style="border-radius:8px;"
+      />
+    </a>
+
+    <!-- JavaScript -->
+    
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+      <img
+        alt="JavaScript"
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"
+        style="border-radius:8px;"
+      />
+    </a>
+
+    <!-- Python -->
+    <a href="https://www.python.org/" target="_blank" rel="noopener">
+      <img
+        alt="Python"
+        src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"
+        style="border-radius:8px;"
+      />
+    </a>
+  </div>
+
+
+
+
 
 
 
