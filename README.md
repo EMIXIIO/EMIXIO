@@ -4,7 +4,7 @@ repositorio emixio
  👋, 
 
 
-Prueba de repositorio 
+
 
 
 
@@ -23,9 +23,7 @@ Skills: HTML / CSS / C++ /
 
 
 
-### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
-|:---:|:---:|:---:|
+
 
 
 
