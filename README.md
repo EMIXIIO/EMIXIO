@@ -31,9 +31,7 @@ Skills: HTML / CSS / C++ /
       />
     </a>
 
-    <!-- JavaScript -->
-    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
       <img
         alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"
@@ -41,18 +39,15 @@ Skills: HTML / CSS / C++ /
       />
     </a>
 
-    <!-- Python -->
-    <a href="https://www.python.org/" target="_blank" rel="noopener">
+<a href="https://www.python.org/" target="_blank" rel="noopener">
       <img
         alt="Python"
         src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"
         style="border-radius:8px;"
       />
     </a>
+    
   </div>
-
-
-
 
 
 
