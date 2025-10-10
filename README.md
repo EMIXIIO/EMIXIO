@@ -1,10 +1,16 @@
 # EMIXIO
-repositorio emixio
-
- 👋, 
 
 
+<div align="center">
 
+  <h2>👋 Hola, soy <strong>Emilio</strong></h2>
+  <p>
+    Estudiante del <strong>TecNM</strong> y desarrollador apasionado por la programación y la resolución de problemas.<br>
+    Me gusta crear proyectos con <strong>C++</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>HTML</strong> y <strong>CSS</strong>,<br>
+    siempre buscando aprender algo nuevo cada día. 🚀
+  </p>
+
+</div>
 
 
 
