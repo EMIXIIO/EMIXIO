@@ -8,7 +8,7 @@ repositorio emixio
 
 
 
-Skills: HTML / CSS / C++ /
+Skills: HTML / CSS / C++ / JavaScript / Python
 
 
 
@@ -46,6 +46,31 @@ Skills: HTML / CSS / C++ /
         style="border-radius:8px;"
       />
     </a>
+
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
+      <img
+        alt="HTML"
+        src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"
+        style="border-radius:8px;"
+      />
+    </a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
+      <img
+        alt="CSS"
+        src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"
+        style="border-radius:8px;"
+      />
+    </a>
+
+
+
+
+
+
+
     
   </div>
 
